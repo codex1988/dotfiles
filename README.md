@@ -1,7 +1,7 @@
-Enter in /dotfiles, open terminal and type:
+Go to /dotfiles, open terminal and type:
 
 stow .
 
 or
 
-sudo stow
+sudo stow .
