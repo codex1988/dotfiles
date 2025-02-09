@@ -1,0 +1,9 @@
+[user]
+	email = filimonov.grigoriy.1988@gmail.com
+	name = codex1988
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
